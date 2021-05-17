@@ -1,4 +1,4 @@
-# shake_animations
+# Bookio_animations
 
 A new Flutter project.
 
