@@ -8,7 +8,7 @@ const String bgimage = 'assets/imgs/Bg.png';
 final books = [
   Book(
       title: 'Wink Poppy MidNight',
-      author: 'Demoando',
+      author: 'Basha',
       image: 'assets/imgs/book1.jpg'),
   Book(
       title: 'Walking with Miss mille',
